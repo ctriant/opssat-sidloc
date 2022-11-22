@@ -9,31 +9,21 @@
     <version>2.1.0-SNAPSHOT</version>
   </parent>
   <groupId>int.esa.nmf.sdk.examples.space</groupId>
-  <artifactId>orbit-ai</artifactId>
+  <artifactId>opsat-sidloc</artifactId>
   <packaging>jar</packaging>
 
-  <name>ESA NMF SDK App Example - OrbitAI</name>
-  <description>On-board machine learning for OPS-SAT optical devices FDIR</description>
+  <name>ESA NMF SDK App Example - OPSSAT SIDLOC</name>
+  <description></description>
 
   <developers>
     <developer>
-      <id>TanguySoto</id>
-      <name>Tanguy Soto</name>
-      <url>https://tanguyso.to</url>
-    </developer>
-    <developer>
-      <id>GeorgesLabreche</id>
-      <name>Georges Labrèche</name>
-      <url>https://github.com/georgeslabreche</url>
-    </developer>
-    <developer>
-      <id>EvridikiNtagiou</id>
-      <name>Evridiki Ntagiou</name>
-      <url>https://github.com/Evridiki-ase</url>
+      <id>librespace</id>
+      <name>libre space</name>
+      <url>https://libre.space</url>
     </developer>
   </developers>
   <properties>
-    <assembly.mainClass>esa.mo.nmf.apps.OrbitAIApp</assembly.mainClass>
+    <assembly.mainClass>esa.mo.nmf.apps.OPSSATSIDLOC</assembly.mainClass>
     <maven.deploy.skip>true</maven.deploy.skip>
     <skipNexusStagingDeployMojo>true</skipNexusStagingDeployMojo>
   </properties>

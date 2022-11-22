@@ -1,6 +1,0 @@
-## Publication Assets
-All assets related to publishing and presenting the experiment's findings are collected in the following directories:
-- **diagrams**: Flow charts and system diagrams.
-- **images**: Miscellaneous images.
-- **monitoring**: System and application performance metrics collected with [collectd](https://collectd.org/) during validation on the Engineering Model (EM).
-- **Rscripts**: R scripts that process experiment data and produces plots.
